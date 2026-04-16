@@ -11,6 +11,10 @@ public class App {
 		Opration op = new Opration();
 		System.out.println("Sub::" + op.sub(10, 20));
 		System.out.println("Sum::" + op.sum(10, 30));
+		System.out.println("Sum::" + op.mul(10, 30));
+		System.out.println("Sum::" + op.div(10, 30));
+		
+		
 		System.out.println("App.main()");
 		System.out.println("----------------------");
 
